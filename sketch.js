@@ -36,6 +36,7 @@ function draw() {
  spawnCoin();
 
 
+//if keyDown("32")&& boy
 
   drawSprites();
 
